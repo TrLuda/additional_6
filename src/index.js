@@ -1,5 +1,5 @@
 module.exports = function zeros(expression) {
-    var res = "1", substring = [], pos = 0, num, str, fact;
+     var res = "1", substring = [], pos = 0, num, str, fact;
     
     function multiply(first, second) {
         var result = [], f, s, transfer, resLine, l;
@@ -66,7 +66,6 @@ module.exports = function zeros(expression) {
             return i;
         }
     }
-    
 }
 
 
